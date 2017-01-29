@@ -1,0 +1,25 @@
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\NetworkZoneCreator.exe.config
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\NetworkZoneCreator.csprojResolveAssemblyReference.cache
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\MainWindow.baml
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\Resources\Icons.baml
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\MainWindow.g.cs
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\Resources\Icons.g.cs
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\App.g.cs
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\NetworkZoneCreator_MarkupCompile.cache
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\NetworkZoneCreator.g.resources
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\NetworkZoneCreator.Properties.Resources.resources
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\NetworkZoneCreator.csproj.GenerateResource.Cache
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\NetworkZoneCreator.exe
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\NetworkZoneCreator.pdb
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\MahApps.Metro.dll
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\System.Windows.Interactivity.dll
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\MahApps.Metro.xml
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\NetworkZoneCreator.exe
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\NetworkZoneCreator.pdb
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\App.baml
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\Regra de Negocio\flyoutTeste.baml
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\Regra de Negocio\flyoutTeste.g.cs
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\Scripts\DesligarRede.bat
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\Scripts\LigarRede.bat
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\Scripts\MostraConexoes.bat
+D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\obj\Debug\NetworkZoneCreator_Content.g.cs

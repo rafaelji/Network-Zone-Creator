@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1003]D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\NetworkZoneCreator.exe</TopNode>
+  <SelectedNode>[0-1003]D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\NetworkZoneCreator.exe</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1003]D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\NetworkZoneCreator.exe" Expanded="true" />
+    <Node UniqueName="[0-1004]NetworkZoneCreator" Expanded="true" />
+    <Node UniqueName="[0-1005]NetworkZoneCreator.Test" Expanded="true" />
+    <Node UniqueName="[0-1000]NetworkZoneCreator.Test.MainWindowTest" Expanded="true" />
+  </Nodes>
+</VisualState>

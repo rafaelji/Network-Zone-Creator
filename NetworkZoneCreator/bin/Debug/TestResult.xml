@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\NetworkZoneCreator.exe" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-07-06" time="15:51:24">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="D:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="RAFAELBS-PC" user="Rafael" user-domain="RafaelBS-PC" />
+  <culture-info current-culture="pt-BR" current-uiculture="pt-BR" />
+  <test-suite type="Assembly" name="D:\Rafael\Documentos\Visual Studio 2013\Projects\NetworkZoneCreator\NetworkZoneCreator\bin\Debug\NetworkZoneCreator.exe" executed="True" result="Success" success="True" time="0.071" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="NetworkZoneCreator" executed="True" result="Success" success="True" time="0.052" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.052" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="MainWindowTest" executed="True" result="Success" success="True" time="0.049" asserts="0">
+                <results>
+                  <test-case name="NetworkZoneCreator.Test.MainWindowTest.deveVerificarSeOLenghtDaSenhaEstaEntreOitoESecentaETres" executed="True" result="Success" success="True" time="0.031" asserts="2" />
+                  <test-case name="NetworkZoneCreator.Test.MainWindowTest.deveVerificarSeOLenghtDoSsidEhMaiorOuIgualQueUm" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

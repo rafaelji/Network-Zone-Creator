@@ -1,0 +1,35 @@
+﻿<Page x:Class="NetworkZoneCreator.Regra_de_Negocio.flyoutTeste"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="356" d:DesignWidth="570"
+	Title="flyoutTeste">
+
+    <Grid Margin="0,0,0,-1068">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.ColumnSpan="2" Margin="0,24,10,0" Height="326" VerticalAlignment="Top">
+            <StackPanel HorizontalAlignment="Left" Height="1377" Width="540" Grid.ColumnSpan="2">
+                <Label Content="Network Zone Creator Modo de Usar:" HorizontalAlignment="Left" Margin="0,0,-49,0" VerticalAlignment="Top"/>
+                <TextBlock HorizontalAlignment="Left" Height="67" Margin="10,0,-400,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="550"><Run Text="Requis"/><Run Text="i"/><Run Text="tos:"/><Run Text=" 1 - Estar com privilégios de Administrador ao executar este software."/><LineBreak/><Run Text="&#x9;    2 - Ter uma interface de rede que suporte a criação de redes hospedadas.(Hardware)"/><LineBreak/><Run Text="&#x9;    3 - Ter o .Net Framework 4.5 instalado."/><LineBreak/><InlineUIContainer>
+                		<Separator HorizontalAlignment="Left" Height="34" Margin="0" VerticalAlignment="Top" Width="550"/>
+                	</InlineUIContainer></TextBlock>
+                <TextBlock HorizontalAlignment="Left" Height="71" Margin="10,0,0,0" TextWrapping="Wrap" Text="Utilização: Para utilizar corretamente, informe um nome sem espaços em branco com pelo menos 1 caractere. Informe tambem uma senha que contenha de 8 a 63 caracteres ASCII sem espaços em branco. Em seguida clique no botão ao lado direito dos campos nome e senha para que a rede seja criada!" VerticalAlignment="Top" Width="530"/>
+                <TextBlock HorizontalAlignment="Left" Margin="10,0,0,0" TextWrapping="Wrap" Text="O Network Zone Creator não compartilha internet ele apenas cria uma rede, para compartilhar internet, após criar a rede abra as configurações da sua fonte de internet como mostrado no exemplo a seguir:" VerticalAlignment="Top" Height="54" Width="530"/>
+                <Image HorizontalAlignment="Left" Height="100" Margin="106,0,-298,0" VerticalAlignment="Top" Width="352" Source="/NetworkZoneCreator;component/Img/1.png"/>
+                <TextBlock HorizontalAlignment="Left" Margin="10,0,-400,0" TextWrapping="Wrap" Text="Em seguida clique no botão &quot;Propriedades&quot;." VerticalAlignment="Top" Height="22" Width="550"/>
+                <Image HorizontalAlignment="Left" Height="378" Margin="119,0,-275,0" VerticalAlignment="Top" Width="316" Source="/NetworkZoneCreator;component/Img/2.png"/>
+                <TextBlock TextWrapping="Wrap" Height="72" Margin="10,10,0,0"><Run Text="Na próxima janela "/><Run Text="que abrir clique na aba compartilhamento, depois marque o chekbox que permite que outros usuários da rede se conectem à internet pela conexão deste computador e por fim na lista de opções selecione a "/><Run Text="rede correspondente a rede que você acabou de criar. Observação: Os nomes mostrados na lista de opções poderão mudar no seu computador."/></TextBlock>
+                <Image Height="375" Source="/NetworkZoneCreator;component/Img/3.png" Margin="10,0,0,0"/>
+                <TextBlock TextWrapping="Wrap" Margin="10,10,0,0" Text="Repare que para este exemplo a rede escolhida na lista de opções é a mesma que aparece nos atributos da rede que criada pelo Network Zone Creator, que nesse caso se chama Conexão Local*4. Não se preocupe com esse nome, o próprio Windows gera esse nome."/>
+                <Image Height="117" Margin="10,10,0,0" Source="/NetworkZoneCreator;component/Img/4.png"/>
+            </StackPanel>
+        </ScrollViewer>
+
+
+    </Grid>
+</Page>
